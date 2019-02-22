@@ -28,12 +28,11 @@ vsp = vsp + grv;
 //JUMP
 //COMMENT OUT OF U WANT TO JUMP MIDAIR
 #region
-canjump -= 1; //canjump is reduced by 1 every frame
+//canjump -= 1; //canjump is reduced by 1 every frame
 if(canjump > 0) && (key_jump){ //vertical movement positive is moving down
 											//so if were on the floor and jump is pressed
 		vsp = -9;
-		canjump = 0;
-
+		canjump -=1;
 }
 
 else{
@@ -116,7 +115,7 @@ if(!place_meeting(x, y+1, objectWall)){ //if its in the air/if theres no wall im
 #region
 else{
 	
-	canjump = 9;
+	canjump = 2;
 	
 	if(sprite_index == spritePlayerJump){
 		
