@@ -2,7 +2,7 @@
     "id": "bc6c5478-aef2-401f-b713-cb77bfcc28ba",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "objectPickup",
+    "name": "obj_pickup_item",
     "eventList": [
         {
             "id": "39b8a1ac-9973-41e5-92e7-b95e65e8d4ef",
@@ -23,6 +23,16 @@
             "enumb": 0,
             "eventtype": 4,
             "m_owner": "bc6c5478-aef2-401f-b713-cb77bfcc28ba"
+        },
+        {
+            "id": "4b7c87d5-c8f9-4b51-92b9-0bacfba7574a",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "bc6c5478-aef2-401f-b713-cb77bfcc28ba"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -41,8 +51,23 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "9050ac1b-93df-4503-9c74-a693bcb411c6",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "item.mushroom",
+            "varName": "item_index",
+            "varType": 4
+        }
+    ],
     "solid": false,
-    "spriteId": "c6700202-a6c0-41f1-8ebb-4ce58bce5bea",
+    "spriteId": "86aff4ed-19c1-4d08-bed0-e6a259016769",
     "visible": true
 }

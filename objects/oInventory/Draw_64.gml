@@ -1,4 +1,4 @@
-if(!show_inventory){
+if(!global.show_inventory){
 	exit;
 }
 
@@ -21,9 +21,9 @@ var ii, ix, iy, xx, yy, sx, sy, iitem, inv_grid;
 ii = 0; //current item index
 ix = 0; //cell of inv
 iy = 0; //cell of inv
-inv_grid = ds_inventory;
+inv_grid = global.ds_inventory;
 
-repeat(inv_slots){
+repeat(global.inv_slots){
 	//x, y location for slot
 	xx = slots_x + ((cell_size+x_buffer)*ix*scale);
 	yy = slots_y + ((cell_size+y_buffer)*iy*scale);
@@ -31,7 +31,7 @@ repeat(inv_slots){
 	//item
 	iitem = inv_grid[# 0, ii];
 	sx = (iitem mod spr_inv_items_collumn) * cell_size;
-	sy = (iitem div spr_inv_items_rows) * cell_size;
+	sy = (iitem div spr_inv_items_collumn) * cell_size;
 	
 	//draw slot and item
 	draw_sprite_part_ext(spr_ivn_UI, 0, 0, 0, cell_size, cell_size, xx, yy, scale, scale, c_white, 1);

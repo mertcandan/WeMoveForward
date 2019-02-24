@@ -1483,6 +1483,25 @@
             }
         },
         {
+            "Key": "86aff4ed-19c1-4d08-bed0-e6a259016769",
+            "Value": {
+                "id": "e5c3dd60-5078-45c2-a703-712de5fc7dbb",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_item_thumbs\/spr_item_thumbs.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "87999d06-77a0-4196-a8b4-f15b1faa21a1",
             "Value": {
                 "id": "dfa33785-3504-43ed-a053-4d34dc7dae3e",
@@ -1972,7 +1991,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "objects\/objectPickup\/objectPickup.yy",
+                "resourcePath": "objects\/obj_pickup_item\/obj_pickup_item.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -2335,6 +2354,25 @@
                 ],
                 "resourcePath": "views\/d5ca1937-94bc-493c-aa0b-d40953362346.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d790b812-ba49-4d4f-8f3f-1fa07f45f921",
+            "Value": {
+                "id": "479e1f85-7c32-4e21-9bad-e6ab8886ab07",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/scr_item_pickup\/scr_item_pickup.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -2721,7 +2759,8 @@
     "script_order": [
         "bd78898a-d4f6-43a8-bf93-bc9d03d41010",
         "2718c702-4e55-4788-b6c5-b845c1897985",
-        "96893d29-603b-49ed-ba7e-6f15dbbfc4e3"
+        "96893d29-603b-49ed-ba7e-6f15dbbfc4e3",
+        "d790b812-ba49-4d4f-8f3f-1fa07f45f921"
     ],
     "tutorial": ""
 }

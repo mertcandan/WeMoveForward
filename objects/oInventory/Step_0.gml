@@ -1,13 +1,13 @@
-if(keyboard_check_pressed(ord("I"))){
+//if(keyboard_check_pressed(ord("I"))){
+//	//show_message(global.show_inventory);
+//	global.show_inventory = !global.show_inventory;
 	
-	show_inventory = !show_inventory;
+//}
 
-}
-
-if(!show_inventory){
+if(!global.show_inventory){
 	exit;
 }
-
+	
 #region mouse slot
 mousex = device_mouse_x_to_gui(0);
 mousey = device_mouse_y_to_gui(0);
@@ -35,13 +35,13 @@ if(nx >= 0 and nx < inv_slots_width and ny >= 0 and ny < inv_slots_height ){
 
 
 
-selected_slot = min(inv_slots-1, m_slotx + (m_sloty * inv_slots_width));
+selected_slot = min(global.inv_slots-1, m_slotx + (m_sloty * inv_slots_width));
 
 #endregion
 
 //pickup item
 
-var inv_grid = ds_inventory;
+var inv_grid = global.ds_inventory;
 var ss_item = inv_grid[# 0, selected_slot];
 
 if(pickup_slot != -1){

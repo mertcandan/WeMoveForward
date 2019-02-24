@@ -1,11 +1,15 @@
 depth = -1;
 scale = 2;
 
-show_inventory = false;
+//globalvar show_inventory;
+//global.show_inventory = false;
 
-inv_slots = 17;
+//globalvar inv_slots;
+//inv_slots = 16;
+
+//inv_slots = 16;
 inv_slots_width = 8;
-inv_slots_height = 3;
+inv_slots_height = 2;
 
 selected_slot = 0;
 pickup_slot = -1;
@@ -16,7 +20,7 @@ x_buffer = 2;
 y_buffer = 4;
 
 gui_width = display_get_gui_width();
-gui_height = display_get_gui_height()
+gui_height = display_get_gui_height();
 
 cell_size = 32;
 inv_UI_width = 288;
@@ -31,17 +35,17 @@ spr_inv_items_rows = sprite_get_height(spr_inv_items)/cell_size;
 inv_UI_x = (gui_width * 0.5) - (inv_UI_width * 0.5 * scale);
 inv_UI_y = (gui_height * 0.5) - (inv_UI_height * 0.5 * scale);
 
-info_x = inv_UI_x + (9 * scale); 
+info_x = inv_UI_x + (40 * scale); 
 info_y = inv_UI_y + (9 * scale); 
 
-slots_x = info_x;
+slots_x = inv_UI_x + (9 * scale);
 slots_y = inv_UI_y + (40 * scale);
 
 
 //player info
 
 ds_player_info = ds_grid_create(2, 4);
-ds_player_info[# 0, 3] = "               Name";
+ds_player_info[# 0, 3] = "Name";
 ds_player_info[# 1, 3] = "Lucinda";
 
 
@@ -49,7 +53,8 @@ ds_player_info[# 1, 3] = "Lucinda";
 //0 = item
 //1 = number
 
-ds_inventory = ds_grid_create(2, inv_slots);
+//globalvar ds_inventory;
+//ds_inventory = ds_grid_create(2, inv_slots);
 
 
 //items
@@ -72,12 +77,13 @@ enum item{
 	otion		= 14,
 	starfish	= 15,
 	mushroom	= 16,
-	height		= 17,
-		
 }
 
-ds_inventory[# 0, 0] = item.bucket;
-ds_inventory[# 1, 0] =   1; //1 bucket in my inven
+for (i=0; i<global.inv_slots; i++) {
+	global.ds_inventory[# 0, 0] = item.none;
+}
+	
+
 
 
 
