@@ -161,9 +161,12 @@ if(input_interact){
 		var inst = collision_rectangle(x - radius, y-radius, x+radius, y+radius, object_parent_NPC, false, false);
 		if(inst != noone) {
 			with(inst) {
-				var tbox = create_textbox(text, speakers, character_turns);
+				var tbox = create_textbox(text, speakers, character_turns, dialogue_index);
 			}
 			active_textbox = tbox;
+			if (inst.dialogue_index < inst.max_dialogue_index) {
+				inst.dialogue_index += 1;
+			}
 		}
 	} else{
 		if(!instance_exists(active_textbox)){
