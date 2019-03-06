@@ -26,9 +26,8 @@ with(tbox){
 		    // other character's turn
 			names[i] = speakers[0].name;
 			portraits[i] = speakers[0].portrait_index;
+			//voices[i] = speakers[0].voice;
 		}
-		// TODO: didn't work on voice yet
-		voices[i] = speakers[0].voice;
 		i++;
 	//	names[i] = speakers[0].name;
 	//	portraits[i] = speakers[0].portrait_index;

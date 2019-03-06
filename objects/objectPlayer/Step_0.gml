@@ -115,7 +115,11 @@ if(!place_meeting(x, y+1, objectWall)){ //if its in the air/if theres no wall im
 #region
 else{
 	
-	canjump = 2;
+	if (global.double_jump_enabled == false) {
+		canjump = 1;
+	} else {
+		canjump = 2;
+	}
 	
 	if(sprite_index == spritePlayerJump){
 		
