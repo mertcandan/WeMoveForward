@@ -6,7 +6,7 @@ if(keyboard_check_pressed(interact_key)){
 		portrait_index = portraits[page];
 	}
 	else{
-		instance_destroy();	
+		instance_destroy();
+		global.character_lock = false;
 	}
-	
 }

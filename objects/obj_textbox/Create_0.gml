@@ -47,5 +47,7 @@ text_col = c_black;
 c = c_black;
 font = fInvSmall;
 
+global.character_lock = true;
+
 draw_set_font(fInvSmall);
 text_height = string_height("M");
