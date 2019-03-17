@@ -32,7 +32,7 @@ draw_set_valign(fa_top);
 if(!pause and counter < string_length(text[page])){
 	counter++;
 	if(counter mod 4 == 0){
-	audio_play_sound(voice, 10, false);
+		audio_play_sound(voice, 10, false);
 	}
 	//switch(string_char_at(text, counter)){
 	//	case ",": pause = true; alarm[1] = 15; break;

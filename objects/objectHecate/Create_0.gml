@@ -3,7 +3,7 @@ vsp = 0; //vertical speed
 grv = 0.3; //gravity
 
 portrait_index = 20; // the sprite offset of this character's face
-voice = snd_voice1; // didn't work on voice yet
+voice = voice2;
 name = "Hecate";
 text = [[
 	"My, my, you're an awful far way from home, huh?", //1 - NPC

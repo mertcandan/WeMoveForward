@@ -155,8 +155,6 @@ if(hsp != 0) image_xscale = sign(hsp); //horizontal scaling of sprite. if its 1 
 
 #endregion
 
-//object collision
-
 if(input_interact){
 	
 	// dialogues with NPCs
@@ -176,11 +174,4 @@ if(input_interact){
 			active_textbox=noone;
 		}
 	}
-	
-	//var inst = collision_rectangle(x - radius, y-radius, x+radius, y+radius, object_parent_NPC, false, false);
-	//if(inst != noone) {
-	//	with(inst) {
-	//		show_message(inst)
-	//	}
-	//}
 }

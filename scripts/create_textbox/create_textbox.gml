@@ -20,19 +20,16 @@ with(tbox){
 		if (character_turns[i] == 0) {
 		    // Player's turn
 			names[i] = objectPlayer.name;
-			portraits[i] = 39
+			portraits[i] = 39;
+			voices[i] = voice1;
 		}
 		else {
 		    // other character's turn
 			names[i] = speakers[0].name;
 			portraits[i] = speakers[0].portrait_index;
-			//voices[i] = speakers[0].voice;
+			voices[i] = speakers[0].voice;
 		}
 		i++;
-	//	names[i] = speakers[0].name;
-	//	portraits[i] = speakers[0].portrait_index;
-	//	voices[i] = speakers[0].voice;
-	//	i++;
 	}
 	event_perform(ev_other, ev_user1);
 }

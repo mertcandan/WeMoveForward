@@ -8,7 +8,7 @@ hascontrol = true;
 canjump = 0;
 
 portrait_index = 0;
-voice = snd_voice1;
+self_voice = voice1;
 name = "Lucinda";
 radius = 16;
 active_textbox = noone;

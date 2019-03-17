@@ -38,7 +38,7 @@ text[0] = "";
 page = 0;
 
 name = "name";
-voice = snd_voice1;
+voice = voice1;
 
 interact_key = ord("E");
 
