@@ -5,6 +5,6 @@ if (audio_is_playing(mWaterfall))
    }
 
 
-audio_play_sound(solemnbeach, 7, true);
-audio_play_sound(drips, 7, true);
-audio_play_sound(dripsLOUD, 7, true);
+audio_play_sound(solemnbeach2, 7, true);
+audio_play_sound(drips2, 7, true);
+audio_play_sound(dripsLOUD2, 7, true);

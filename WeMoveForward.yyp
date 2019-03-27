@@ -590,6 +590,25 @@
             }
         },
         {
+            "Key": "2d6a543e-49d5-4c0f-a5c4-2b3b9deb4d97",
+            "Value": {
+                "id": "113ad94f-236c-4b1e-8f59-3616041d5b08",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sounds\/solemnbeach2\/solemnbeach2.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "2f08f5b5-4f5e-48b6-bc03-e24035f04756",
             "Value": {
                 "id": "3b419bc2-330c-4764-aef8-83e4f9153255",
@@ -1350,6 +1369,25 @@
             }
         },
         {
+            "Key": "773ccfd0-fa64-43c4-a0c0-26d0f3923f78",
+            "Value": {
+                "id": "044e5749-7a02-4150-aa80-325336b6c626",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sounds\/dripsLOUD2\/dripsLOUD2.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "794d2d9d-f890-4f27-b6f1-6d001c662bba",
             "Value": {
                 "id": "2c8ff16f-e100-4dc5-8d6a-ed9ef9ce1e53",
@@ -1670,6 +1708,25 @@
                 ],
                 "resourcePath": "objects\/objectEnding\/objectEnding.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "916cb023-8960-4d08-a43a-7e95d645a488",
+            "Value": {
+                "id": "7e3afa85-467b-443e-8359-32195dc7092b",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sounds\/drips2\/drips2.yy",
+                "resourceType": "GMSound"
             }
         },
         {
