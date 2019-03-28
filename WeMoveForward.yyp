@@ -647,6 +647,25 @@
             }
         },
         {
+            "Key": "33e112b5-03df-4871-81cd-f822fec7434a",
+            "Value": {
+                "id": "2f4d5764-b8b6-4651-b9d6-624b5be59769",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/building1\/building1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "34bdd6b5-2101-457b-b7f1-2f0ac1a59f4b",
             "Value": {
                 "id": "b4fadd62-263c-4c26-9e0b-8275a2a9492f",
@@ -913,6 +932,25 @@
             }
         },
         {
+            "Key": "52e63447-272c-4135-a6e0-b2b10ba07e4d",
+            "Value": {
+                "id": "5f043c06-7027-40bf-ba6f-7fb9081b4595",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/building3\/building3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "535df73e-8422-43b6-9c9d-95060678a625",
             "Value": {
                 "id": "d62eecaf-25e8-42e0-81a5-1921eaeefe32",
@@ -1081,6 +1119,25 @@
                 ],
                 "resourcePath": "objects\/objectWall\/objectWall.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "62952edd-8e84-491d-b5ae-f4db58aa4df3",
+            "Value": {
+                "id": "d1f23d77-9ee4-4fc8-9412-4d985101fab7",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/building2\/building2.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1350,6 +1407,25 @@
             }
         },
         {
+            "Key": "791e5a08-72c3-4a8f-adc1-676f55dc0717",
+            "Value": {
+                "id": "cf8f0b7c-05b2-4af2-88ed-649fdebadd5c",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/building4\/building4.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "794d2d9d-f890-4f27-b6f1-6d001c662bba",
             "Value": {
                 "id": "2c8ff16f-e100-4dc5-8d6a-ed9ef9ce1e53",
@@ -1612,6 +1688,25 @@
                     "default"
                 ],
                 "resourcePath": "sprites\/spriteGenesis\/spriteGenesis.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8b8a8a25-5026-4201-b3d4-c85f3df0982c",
+            "Value": {
+                "id": "5a8042ed-389d-46df-8a29-b51a00064437",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/building5\/building5.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1936,6 +2031,25 @@
                 ],
                 "resourcePath": "sounds\/waterfall\/waterfall.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "b5ebf58a-52a2-4b43-97e2-ef9e84c8c10a",
+            "Value": {
+                "id": "2c8fec0b-071d-4e48-8c96-d58224ec1d93",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/haze\/haze.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
