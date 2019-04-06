@@ -37,17 +37,74 @@ camera_set_view_pos(cam, x - view_w_half, y - view_h_half)
 	
 //}
 
+//ROOM 1
+
 if(room!= rMenu) && (room != rEnding){
 
 if(layer_exists("backwall")){
 
-	layer_x("backwall", x / 2); //gonna move half the speed as the camera
+	layer_x("backwall", x / 4); //gonna move half the speed as the camera
 	
-}
+	}
+
 if(layer_exists("waterfalls")){
 
-	layer_x("waterfalls", x / 4); //gonna move half the speed as the camera
+	layer_x("waterfalls", x / 2); //gonna move quarter the speed as the camera
 	
+	}
+
+
+
+//ROOM 2
+
+
+if(layer_exists("backwall_ruffle")){
+	
+	layer_x("Background", x / 4);
+	
+	layer_x("left_dark", x / 3);
+	layer_x("right_dark", x / 3);
+
+	layer_x("backwall_ruffle", x / 2); //gonna move quarter the speed as the camera
+	
+	}
+
+
+//ROOM 3
+
+if(layer_exists("Background")){
+	layer_x("Background", x / 4);
+	}
+
+if(layer_exists("bg1")){
+
+	layer_x("bg1", x / 2); //gonna move half the speed as the camera
+	layer_x("bg2", x / 2);
+	layer_x("bg3", x / 2);
+	layer_x("bg4", x / 2);
+	layer_x("bg5", x / 2);
+	layer_x("bg6", x / 2);
+	layer_x("bg7", x / 2);
+	layer_x("bg8", x / 2);
+	layer_x("bg9", x / 2);
+	layer_x("bg10", x / 2);
+	
+	}
+
+if(layer_exists("jelly1")){
+
+	layer_x("jelly1", x / 3);
+	layer_x("jelly2", x / 3);
+	layer_x("jelly3", x / 3);
+	layer_x("jelly4", x / 3);
+	layer_x("jelly5", x / 3);
+	}
+
+
+
+
 }
-}
+
+
+
 

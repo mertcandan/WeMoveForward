@@ -14,11 +14,11 @@
         "b8f6c65a-141e-4215-8ab8-a3fd91982313",
         "239d5657-ae78-4b35-9912-16fb78b6cd74",
         "52ae3f00-a8ef-4e0e-988d-479e2e172372",
-        "62952edd-8e84-491d-b5ae-f4db58aa4df3",
         "33e112b5-03df-4871-81cd-f822fec7434a",
+        "62952edd-8e84-491d-b5ae-f4db58aa4df3",
         "52e63447-272c-4135-a6e0-b2b10ba07e4d",
-        "791e5a08-72c3-4a8f-adc1-676f55dc0717",
-        "8b8a8a25-5026-4201-b3d4-c85f3df0982c"
+        "8b8a8a25-5026-4201-b3d4-c85f3df0982c",
+        "90a58cab-d03e-44b2-973b-705884deef6a"
     ],
     "filterType": "GMSprite",
     "folderName": "Buildings",

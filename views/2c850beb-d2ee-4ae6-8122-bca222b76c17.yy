@@ -14,8 +14,10 @@
         "cbc268e9-7e33-4036-9645-31503473004e",
         "8f93f1e0-1313-4949-8e02-630b3a8ad94a",
         "79d5c0f1-e925-402b-b05c-acd34bc80fbf",
-        "d26636e7-4108-4442-a5c5-253b7f191e7c",
-        "d7de887a-27ba-4dec-adb7-aab843f86cab"
+        "d7de887a-27ba-4dec-adb7-aab843f86cab",
+        "64762e9c-cb7e-4d4e-8fd1-f95f5b949d10",
+        "af4b1a89-5647-410a-b008-f5a51a8eeb5f",
+        "d26636e7-4108-4442-a5c5-253b7f191e7c"
     ],
     "filterType": "GMObject",
     "folderName": "meta",

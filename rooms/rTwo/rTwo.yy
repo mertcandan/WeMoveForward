@@ -143,7 +143,7 @@
     "layers": [
         {
             "__type": "GMRBackgroundLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Backgrounds_5",
+            "name": "front_ruffle",
             "id": "a6eae28d-76bc-4a61-943d-a64cd3dc342d",
             "animationFPS": 15,
             "animationSpeedType": "0",
@@ -495,7 +495,7 @@
         },
         {
             "__type": "GMRBackgroundLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Backgrounds_4",
+            "name": "right_dark",
             "id": "a345339a-89ec-4dae-80a9-b16d0ffe5938",
             "animationFPS": 15,
             "animationSpeedType": "0",
@@ -530,7 +530,7 @@
         },
         {
             "__type": "GMRBackgroundLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Backgrounds_3",
+            "name": "left_dark",
             "id": "93dbfb23-d7d1-4edb-b149-27ab74ec56eb",
             "animationFPS": 15,
             "animationSpeedType": "0",
@@ -565,7 +565,7 @@
         },
         {
             "__type": "GMRBackgroundLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Backgrounds_1",
+            "name": "backwall_ruffle",
             "id": "e744099f-a8f7-4e54-aee3-7d1615bdce5b",
             "animationFPS": 15,
             "animationSpeedType": "0",
