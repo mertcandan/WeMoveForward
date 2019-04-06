@@ -2337,10 +2337,9 @@
                 "resourceType": "GMSprite"
             }
         },
-        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
-                "id": "f8b14bdc-f845-433a-9f3e-5428740266fa",
+                "id": "1c640bff-da6c-4112-a7bd-bd991df039bb",
                 "modelName": "GMResourceInfo",
                 "mvc": "1.0",
                 "configDeltaFiles": [
@@ -2922,14 +2921,14 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sprites\/genesisFloor\/genesisFloor.yy",
+                 "resourcePath": "sprites\/genesisFloor\/genesisFloor.yy",
                 "resourceType": "GMSprite"
             }
         },
         {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
-                "id": "d7703c0d-a599-454b-8e33-fe9a05e3a4ac",
+                "id": "c124f36f-c6a5-4fd6-b444-7f313130b4b1",
                 "modelName": "GMResourceInfo",
                 "mvc": "1.0",
                 "configDeltaFiles": [
@@ -2943,6 +2942,25 @@
                 ],
                 "resourcePath": "options\/windows\/options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "cf21d653-6789-4bd8-978c-2a0cde105e25",
+            "Value": {
+                "id": "f2913605-c5a8-4c8c-940f-9210be7449ae",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/objectCameraPlayer\/objectCameraPlayer.yy",
+                "resourceType": "GMObject"
             }
         },
         {
