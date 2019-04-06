@@ -12,7 +12,11 @@ if (paused) {
 	key_left = keyboard_check(vk_left);
 	key_right = keyboard_check(vk_right);
 	key_jump = keyboard_check_pressed(vk_space); //people can just hold down jump so it checkes if it was pressed that frame
-}	
+} else{
+	key_left = keyboard_check(vk_left);
+	key_right = keyboard_check(vk_right);
+	key_jump = keyboard_check_pressed(vk_space);
+}
 
 //calculate movement
 #region
@@ -152,6 +156,21 @@ else{
 
 if(hsp != 0) image_xscale = sign(hsp); //horizontal scaling of sprite. if its 1 its facing right
 										//-1 is facing left
+
+#endregion
+//Open doors
+#region
+
+if(keyboard_check(vk_enter)){
+	if(place_meeting(x,y,genesisRoomDoor)){    
+        slideTransition(TRANS_MODE.GOTO, genesisRoom);
+		hascontrol=true;
+    }
+	if(place_meeting(x,y,genesisInsideRoom)){    
+        slideTransition(TRANS_MODE.GOTO, rThreeNEW);
+		hascontrol = true;
+    }
+}
 
 #endregion
 
