@@ -33,6 +33,7 @@ if(mode != TRANS_MODE.OFF){
 			{
 				mode = TRANS_MODE.INTRO;
 				room_goto(target);
+				objectPlayer.hascontrol = true
 				break;			
 			}
 			case TRANS_MODE.RESTART:
