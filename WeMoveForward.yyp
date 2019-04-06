@@ -1426,6 +1426,25 @@
             }
         },
         {
+            "Key": "69119ef1-d79a-48d6-a354-7ecfd733291d",
+            "Value": {
+                "id": "6e63a5ce-9228-4f34-bf73-b3742e3a19b0",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/kelp\/kelp.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6a303039-f5e4-4699-b4c7-fb7d309c6292",
             "Value": {
                 "id": "9a987bcc-9028-44d6-9d63-7f97f6ea23fb",
@@ -2490,6 +2509,25 @@
             }
         },
         {
+            "Key": "b334be78-13de-4a08-ad64-4ca7a47969f4",
+            "Value": {
+                "id": "fa2c013f-eed3-4167-a355-f6e6041c7478",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/kelpFlip\/kelpFlip.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b3b6b72f-bfbd-4320-b91f-d13b3d13da92",
             "Value": {
                 "id": "f6ec28c8-1207-4c3c-9d1f-631688cff882",
@@ -2922,7 +2960,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                 "resourcePath": "sprites\/genesisFloor\/genesisFloor.yy",
+                "resourcePath": "sprites\/genesisFloor\/genesisFloor.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -2962,6 +3000,25 @@
                 ],
                 "resourcePath": "objects\/objectCameraPlayer\/objectCameraPlayer.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d03de3c9-6d6f-4570-8a2e-5e8ad4ce742f",
+            "Value": {
+                "id": "e6567a8f-de1c-4f30-b11d-7b341dbcb83c",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/kelpSmall\/kelpSmall.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
