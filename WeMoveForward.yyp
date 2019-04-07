@@ -2262,6 +2262,25 @@
             }
         },
         {
+            "Key": "9ddd2037-09db-4038-bd22-0e8159d5e0b8",
+            "Value": {
+                "id": "5e8bd258-8a26-46e5-9d7f-92e4cd5c3349",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/kelp2\/kelp2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9f0805ad-5fc9-43a5-9a10-863f48c6101b",
             "Value": {
                 "id": "d74f3e18-69b6-42d8-a66c-dcc355106fa8",
@@ -2847,6 +2866,25 @@
                     "default"
                 ],
                 "resourcePath": "sprites\/sprite15\/sprite15.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c56ccafc-f328-4a21-9d4e-12e16daec5e3",
+            "Value": {
+                "id": "205dac3f-5574-4ce4-aeed-a2b69bb0cd20",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/kelp2flip\/kelp2flip.yy",
                 "resourceType": "GMSprite"
             }
         },
