@@ -1,5 +1,3 @@
-//get player input
-
 key_pause = keyboard_check_pressed(vk_backspace);
 
 if (key_pause) {
@@ -8,22 +6,20 @@ if (key_pause) {
 
 if (paused) {
 	//
-} else if(hascontrol & !global.character_lock){
-	key_left = keyboard_check(vk_left);
-	key_right = keyboard_check(vk_right);
-	key_jump = keyboard_check_pressed(vk_space); //people can just hold down jump so it checkes if it was pressed that frame
-} else{
-	key_left = keyboard_check(vk_left);
-	key_right = keyboard_check(vk_right);
-	key_jump = keyboard_check_pressed(vk_space);
-}
-
-// check for WAD as well
-if (!key_left && !key_right && !key_jump) {
-	key_left = keyboard_check(ord("A"));
-	key_right = keyboard_check(ord("D"));
-	key_jump = keyboard_check(ord("W"));
-}
+} else if(!global.character_lock){ //this was modified in one of the previous commits
+	if (hascontrol) {
+		key_left = keyboard_check(vk_left);
+		key_right = keyboard_check(vk_right);
+		key_jump = keyboard_check_pressed(vk_space); //people can just hold down jump so it checkes if it was pressed that frame
+	
+		// check for WAD as well
+		if (!key_left && !key_right && !key_jump) {
+			key_left = keyboard_check(ord("A"));
+			key_right = keyboard_check(ord("D"));
+			key_jump = keyboard_check(ord("W"));
+		}
+	}
+} 
 
 //calculate movement
 #region
