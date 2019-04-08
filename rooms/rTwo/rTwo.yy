@@ -208,8 +208,8 @@
             "visible": true,
             "vspeed": 0,
             "vtiled": false,
-            "x": 2200,
-            "y": -300
+            "x": 2400,
+            "y": -70
         },
         {
             "__type": "GMRBackgroundLayer_Model:#YoYoStudio.MVCFormat",
@@ -243,7 +243,7 @@
             "visible": true,
             "vspeed": 0,
             "vtiled": false,
-            "x": 2000,
+            "x": 1750,
             "y": -5
         },
         {
@@ -631,7 +631,7 @@
             "vspeed": 0,
             "vtiled": false,
             "x": 1500,
-            "y": -70
+            "y": 60
         },
         {
             "__type": "GMRBackgroundLayer_Model:#YoYoStudio.MVCFormat",
@@ -644,7 +644,7 @@
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
-            "hierarchyVisible": true,
+            "hierarchyVisible": false,
             "hspeed": 0,
             "htiled": false,
             "inheritLayerDepth": false,
@@ -662,11 +662,11 @@
             "stretch": false,
             "userdefined_animFPS": false,
             "userdefined_depth": false,
-            "visible": true,
+            "visible": false,
             "vspeed": 0,
             "vtiled": false,
-            "x": 800,
-            "y": -200
+            "x": 900,
+            "y": -30
         },
         {
             "__type": "GMRBackgroundLayer_Model:#YoYoStudio.MVCFormat",
@@ -700,7 +700,7 @@
             "visible": true,
             "vspeed": 0,
             "vtiled": false,
-            "x": 0,
+            "x": 100,
             "y": 0
         },
         {
@@ -740,12 +740,47 @@
         },
         {
             "__type": "GMRBackgroundLayer_Model:#YoYoStudio.MVCFormat",
+            "name": "kelpSlim1",
+            "id": "9569b4ae-6c68-40f1-bf77-cd8765ba15a9",
+            "animationFPS": 15,
+            "animationSpeedType": "0",
+            "colour": { "Value": 4294967295 },
+            "depth": 1400,
+            "grid_x": 32,
+            "grid_y": 32,
+            "hierarchyFrozen": false,
+            "hierarchyVisible": true,
+            "hspeed": 0,
+            "htiled": false,
+            "inheritLayerDepth": false,
+            "inheritLayerSettings": false,
+            "inheritSubLayers": false,
+            "inheritVisibility": false,
+            "layers": [
+
+            ],
+            "m_parentID": "00000000-0000-0000-0000-000000000000",
+            "m_serialiseFrozen": false,
+            "modelName": "GMRBackgroundLayer",
+            "mvc": "1.0",
+            "spriteId": "e671e350-f924-40c5-b860-ca1ce4839f4a",
+            "stretch": false,
+            "userdefined_animFPS": false,
+            "userdefined_depth": false,
+            "visible": true,
+            "vspeed": 0,
+            "vtiled": false,
+            "x": 1200,
+            "y": -50
+        },
+        {
+            "__type": "GMRBackgroundLayer_Model:#YoYoStudio.MVCFormat",
             "name": "right_dark",
             "id": "a345339a-89ec-4dae-80a9-b16d0ffe5938",
             "animationFPS": 15,
             "animationSpeedType": "0",
             "colour": { "Value": 4294967295 },
-            "depth": 1400,
+            "depth": 1500,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -780,7 +815,7 @@
             "animationFPS": 15,
             "animationSpeedType": "0",
             "colour": { "Value": 4294967295 },
-            "depth": 1500,
+            "depth": 1600,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -815,7 +850,7 @@
             "animationFPS": 15,
             "animationSpeedType": "0",
             "colour": { "Value": 4294967295 },
-            "depth": 1600,
+            "depth": 1700,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -850,7 +885,7 @@
             "animationFPS": 15,
             "animationSpeedType": "0",
             "colour": { "Value": 4293525398 },
-            "depth": 1700,
+            "depth": 1800,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
