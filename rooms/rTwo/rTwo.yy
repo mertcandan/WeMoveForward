@@ -243,7 +243,7 @@
             "visible": true,
             "vspeed": 0,
             "vtiled": false,
-            "x": 0,
+            "x": 200,
             "y": 0
         },
         {
