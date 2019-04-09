@@ -5,14 +5,12 @@ with(objectPlayer){
 		hascontrol = false;
 		
 		slideTransition(TRANS_MODE.GOTO, other.target);
-
 		//objectPlayer.x = targetX;
 		//objectPlayer.y = targetY;
 		//targetX = objectPlayer.x;
 		//targetY = objectPlayer.y;
 		
 	}
-	
 	
 	
 }

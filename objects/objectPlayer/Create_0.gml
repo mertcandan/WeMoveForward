@@ -5,6 +5,7 @@ grv = 0.3; //gravity
 walksp = 4; //walk speed
 
 hascontrol = true;
+touchingdoor = false;
 canjump = 0;
 
 portrait_index = 0;
