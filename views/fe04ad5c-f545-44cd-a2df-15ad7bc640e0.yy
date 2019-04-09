@@ -15,7 +15,8 @@
         "641bfe3b-c0ee-4ae7-b1fa-a4344f263d4e",
         "645b0a91-a2d1-4fb7-820c-fa0aea8d702b",
         "fa4c5d2b-6ed2-4b60-82d0-78fcd9a43297",
-        "8f260436-fcfa-43b7-beac-96f20efc2a11"
+        "8f260436-fcfa-43b7-beac-96f20efc2a11",
+        "a89848ab-7b11-4216-8fc3-9c3eaac3d563"
     ],
     "filterType": "GMSprite",
     "folderName": "genesisRoom",
