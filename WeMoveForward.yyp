@@ -191,6 +191,25 @@
             }
         },
         {
+            "Key": "0a78a14e-cc18-4e68-bcf1-81c31aa21e2b",
+            "Value": {
+                "id": "14d166a7-9d4a-4055-880b-be23d7153eae",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/bgJelly3big\/bgJelly3big.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0aba7239-0429-4225-9663-f44f4a7335c8",
             "Value": {
                 "id": "d6fbe333-ef3b-4328-a288-924391a3f690",
@@ -1046,6 +1065,25 @@
             }
         },
         {
+            "Key": "46ba2331-408c-4197-bd63-ceb79b02ca14",
+            "Value": {
+                "id": "78e84f27-dfbd-44ee-8b33-f731880cd572",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/bgJelly2big\/bgJelly2big.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4a90fff7-3691-4822-99d0-eb7a712f72c9",
             "Value": {
                 "id": "40fa2e86-6328-473f-8b5c-e598b20725cf",
@@ -1844,6 +1882,25 @@
             }
         },
         {
+            "Key": "7eeedea3-18e8-4891-b9ef-5cfdaaf02821",
+            "Value": {
+                "id": "dbf17a05-ef42-4251-83a5-0b25e8f2348c",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/bgJelly1\/bgJelly1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7f11512e-d17e-4463-9f56-87fb7c8a08ca",
             "Value": {
                 "id": "2b59cc92-eef5-48bf-80f3-ff9c5c68eb31",
@@ -2297,6 +2354,25 @@
                 ],
                 "resourcePath": "objects\/objectNix\/objectNix.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "94c98e16-ff0e-4cd9-b6d3-64c3ba3a3287",
+            "Value": {
+                "id": "497dc705-f70d-4475-8813-26e921e56a3b",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/94c98e16-ff0e-4cd9-b6d3-64c3ba3a3287.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -3098,6 +3174,25 @@
             }
         },
         {
+            "Key": "c5830091-dc3d-4c4f-9285-e284c3fabd75",
+            "Value": {
+                "id": "08b68712-16fa-4262-a62c-0633d288ef33",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/bgJelly1Big\/bgJelly1Big.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c6700202-a6c0-41f1-8ebb-4ce58bce5bea",
             "Value": {
                 "id": "b4d9fb1d-6b9c-47e6-ba62-46efa0aa596b",
@@ -3380,6 +3475,44 @@
                 ],
                 "resourcePath": "views\/d5ca1937-94bc-493c-aa0b-d40953362346.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d651f826-6bb9-479f-85cc-c90195a47c8b",
+            "Value": {
+                "id": "fde0c010-71c8-4c52-bd4e-103c625a0e23",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/bgJelly3\/bgJelly3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d68a8468-1b5c-413c-b299-50ab113e153e",
+            "Value": {
+                "id": "a4d7c6ff-153f-4353-9c5a-053c39a040ab",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/bgJelly2\/bgJelly2.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
