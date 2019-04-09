@@ -3877,6 +3877,25 @@
             }
         },
         {
+            "Key": "eb9a523d-df03-42d1-a479-5afa9ec07497",
+            "Value": {
+                "id": "c087d3c2-9309-4769-b510-2688c7ff0211",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/tendril1\/tendril1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ec18478b-cc7b-4107-8965-31f1029e6b62",
             "Value": {
                 "id": "6faa2ce7-a39f-4013-a3ef-8572d97161ac",

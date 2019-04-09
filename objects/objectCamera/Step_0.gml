@@ -59,15 +59,28 @@ if(layer_exists("waterfalls")){
 
 
 if(layer_exists("backwall_ruffle")){
-	
-	layer_x("Background", x / 4);
-	
-	layer_x("left_dark", x / 3);
-	layer_x("right_dark", x / 3);
 
 	layer_x("backwall_ruffle", x / 2); //gonna move quarter the speed as the camera
 	
 	}
+	
+	if(layer_exists("Background")){
+		layer_x("Background", x / 4);
+		}
+	
+	
+		if(layer_exists("left_dark")){
+		layer_x("left_dark", x / 3);
+		}
+		
+	if(layer_exists("right_dark")){
+		layer_x("right_dark", x / 3);
+		}
+	
+	
+	
+	
+	
 
 
 //ROOM 3
@@ -77,29 +90,66 @@ if(layer_exists("Background")){
 	}
 
 if(layer_exists("bg1")){
-
-	layer_x("bg1", x / 2); //gonna move half the speed as the camera
-	layer_x("bg2", x / 2);
-	layer_x("bg3", x / 2);
-	layer_x("bg4", x / 2);
-	layer_x("bg5", x / 2);
-	layer_x("bg6", x / 2);
-	layer_x("bg7", x / 2);
-	layer_x("bg8", x / 2);
-	layer_x("bg9", x / 2);
-	layer_x("bg10", x / 2);
-	
+	layer_x("bg1", x / 4); //gonna move half the speed as the camera
 	}
+	
+	if(layer_exists("bg2")){
+	layer_x("b2", x / 4); //gonna move half the speed as the camera
+	}
+	
+	if(layer_exists("bg3")){
+	layer_x("bg3", x / 4); //gonna move half the speed as the camera
+	}
+	
+	if(layer_exists("bg4")){
+	layer_x("bg4", x / 4); //gonna move half the speed as the camera
+	}
+	
+	if(layer_exists("bg5")){
+	layer_x("bg5", x / 4); //gonna move half the speed as the camera
+	}
+	
+	if(layer_exists("bg6")){
+	layer_x("bg6", x / 4); //gonna move half the speed as the camera
+	}
+	
+	if(layer_exists("bg7")){
+	layer_x("bg7", x / 4); //gonna move half the speed as the camera
+	}
+	
+	if(layer_exists("bg8")){
+	layer_x("bg8", x / 4); //gonna move half the speed as the camera
+	}
+	
+	if(layer_exists("bg9")){
+	layer_x("bg9", x / 4); //gonna move half the speed as the camera
+	}
+	if(layer_exists("bg10")){
+
+	layer_x("bg10", x / 4); //gonna move half the speed as the camera
+	}
+	
+
 
 if(layer_exists("jelly1")){
-
-	layer_x("jelly1", x / 3);
-	layer_x("jelly2", x / 3);
-	layer_x("jelly3", x / 3);
-	layer_x("jelly4", x / 3);
-	layer_x("jelly5", x / 3);
+	layer_x("jelly1", x / 5);
 	}
 
+if(layer_exists("jelly2")){
+	layer_x("jelly2", x / 5);
+	}
+	
+	if(layer_exists("jelly3")){
+	layer_x("jelly3", x / 5);
+	}
+	
+	if(layer_exists("jelly4")){
+	layer_x("jelly4", x / 5);
+	}
+	
+	if(layer_exists("jelly5")){
+	layer_x("jelly5", x / 5);
+	}
 
 
 
