@@ -11,7 +11,7 @@ canjump = 0;
 portrait_index = 0;
 self_voice = voice1;
 name = "Lucinda";
-radius = 16;
+radius = 48;
 active_textbox = noone;
 
 paused = false;
