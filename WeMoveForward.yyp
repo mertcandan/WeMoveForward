@@ -400,6 +400,25 @@
             }
         },
         {
+            "Key": "153ac3bb-5395-40d1-bb6d-ec178181eb57",
+            "Value": {
+                "id": "6ef4f7ae-a766-4ea5-a051-d60d1c92633c",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spriteWaitress\/spriteWaitress.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "19586898-49d4-4d4c-970b-cbf89c16ba6b",
             "Value": {
                 "id": "123925f9-f5e1-4915-b614-17f742d35c52",
@@ -454,6 +473,25 @@
                 ],
                 "resourcePath": "sprites\/spr_portrait_frame\/spr_portrait_frame.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "1c75b44f-252b-4993-963d-ee27b9dd7812",
+            "Value": {
+                "id": "2bf472c8-699c-47ec-90c2-c7fb2864ebd0",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/objectWaitress\/objectWaitress.yy",
+                "resourceType": "GMObject"
             }
         },
         {
