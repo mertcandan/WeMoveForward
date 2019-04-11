@@ -1825,25 +1825,6 @@
             }
         },
         {
-            "Key": "73572ff0-24a3-4f41-b3f7-1702eaaa9adc",
-            "Value": {
-                "id": "be30cfc0-e337-429d-a841-43d11244887b",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "rooms\/rThree\/rThree.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "7494a4a7-4d82-4e26-b224-8a2133abe9a1",
             "Value": {
                 "id": "39e1d559-4846-434a-8108-084bb40d9a1e",
