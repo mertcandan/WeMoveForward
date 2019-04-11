@@ -2,7 +2,7 @@
     "id": "e1178214-1850-44e0-b1b4-93066b058579",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "bubbleNecklace",
+    "name": "bubblenecklace",
     "For3D": false,
     "HTile": false,
     "VTile": false,

@@ -2884,7 +2884,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sprites\/bubbleNecklaceSmall\/bubbleNecklaceSmall.yy",
+                "resourcePath": "sprites\/bubblenecklaceSmall\/bubblenecklaceSmall.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -2905,6 +2905,25 @@
                 ],
                 "resourcePath": "sprites\/kelpFlip\/kelpFlip.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b37a91bb-0a89-4c59-a60b-85e8141c1935",
+            "Value": {
+                "id": "27c0ad06-269c-490f-a608-2a3845ede144",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/b37a91bb-0a89-4c59-a60b-85e8141c1935.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -3815,7 +3834,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sprites\/bubbleNecklace\/bubbleNecklace.yy",
+                "resourcePath": "sprites\/bubblenecklace\/bubblenecklace.yy",
                 "resourceType": "GMSprite"
             }
         },
