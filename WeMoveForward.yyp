@@ -761,6 +761,14 @@
             }
         },
         {
+            "Key": "6a404c30-490e-4f96-ae11-9efb5b72589e",
+            "Value": {
+                "id": "0b71cb5c-eacd-4636-9fb8-623864e55be3",
+                "resourcePath": "rooms\/genesisRoom\/genesisRoom.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "2d6a543e-49d5-4c0f-a5c4-2b3b9deb4d97",
             "Value": {
                 "id": "113ad94f-236c-4b1e-8f59-3616041d5b08",
