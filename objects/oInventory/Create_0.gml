@@ -77,6 +77,11 @@ enum item{
 	otion		= 14,
 	starfish	= 15,
 	mushroom	= 16,
+	bubblenecklace = 17,
+	enimesword = 18,
+	teabag = 19,
+	oldphoto = 20,
+	tinyjellyfish = 21
 }
 
 for (i=0; i<global.inv_slots; i++) {
