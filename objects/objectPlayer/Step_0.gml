@@ -196,4 +196,12 @@ if(input_interact){
 			active_textbox=noone;
 		}
 	}
+	if(place_meeting(x,y,genesisRoomDoor)){    
+        slideTransition(TRANS_MODE.GOTO, genesisRoom);
+		hascontrol=true;
+    }
+	if(place_meeting(x,y,genesisInsideRoom)){    
+        slideTransition(TRANS_MODE.GOTO, rThreeNEW);
+		hascontrol = true;
+    }
 }

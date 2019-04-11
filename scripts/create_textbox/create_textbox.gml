@@ -8,9 +8,11 @@ var tbox = instance_create_layer(0, 0, "text", obj_textbox);
 with(tbox){
 	d_index = argument[3];
 	text = argument[0];
+	text = text[global.metadialoguestep]
 	text = text[d_index];
 	speakers = argument[1];
 	character_turns = argument[2];
+	character_turns = character_turns[global.metadialoguestep]
 	character_turns = character_turns[d_index];
 	
 	var len = array_length_1d(text);

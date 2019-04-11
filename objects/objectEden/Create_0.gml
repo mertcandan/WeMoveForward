@@ -7,7 +7,7 @@ grv = 0.3; //gravity
 portrait_index = 20; // the sprite offset of this character's face
 voice = voice2;
 name = "Eden";
-text = [[
+text = [[[
 	"Well, you're a fresh face. Here, that's a rarity.", //1 - NPC
 	"Welcome!" ,//1
 	"I didn't entirely mean to come here.....",//0 - Player
@@ -32,13 +32,13 @@ text = [[
 	],[
 	"Huh? You haven't left yet?",//1
 
-]];
+]]];
 // 0 - Player
 // 1 - NPC
 // Need to specify which character will talk at each turn
-character_turns=[
+character_turns=[[
 	[1,0,1,1,0],
 	[0,1,1,0,1,1,1,1,1,0,1,1],
 	[1]
-	];
+	]];
 speakers = [id];

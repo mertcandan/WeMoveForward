@@ -5,7 +5,8 @@ grv = 0.3; //gravity
 portrait_index = 20; // the sprite offset of this character's face
 voice = voice1;
 name = "Hecate";
-text = [[ 
+// Below arrays now have an additional layer to allow for items to change the tree, check global.metadialoguestep
+text = [[[ 
 	"My, my, you're an awful far way from home, huh?", //1 - NPC
 	"I'm here for Genesis... Are you Genesis?",//0 - Player
 	"HA! No! Thank the stars I'm not.",//1
@@ -40,15 +41,15 @@ text = [[
 	
 	"GO. AWAY.",//1
 
-]];
+]]];
 // 0 - Player
 // 1 - NPC
 // Need to specify which character will talk at each turn
-character_turns=[
+character_turns=[[
 	[1,0,1,1,0,1,0],
 	[1,0,1,1,1],
 	[1,0,0,1,1,0,1,0],
 	[1,0,1,0,1],
 	[1]
-	];
+	]];
 speakers = [id];
