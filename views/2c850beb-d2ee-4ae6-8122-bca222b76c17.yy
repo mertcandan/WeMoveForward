@@ -20,7 +20,8 @@
         "af4b1a89-5647-410a-b008-f5a51a8eeb5f",
         "d26636e7-4108-4442-a5c5-253b7f191e7c",
         "33f0a850-5b40-42fe-a912-c00a0f759ec4",
-        "c6d6846f-ccdd-40a8-aa5b-105f0ec6418d"
+        "c6d6846f-ccdd-40a8-aa5b-105f0ec6418d",
+        "61502c4e-d05c-4b4f-b292-7b03091f71df"
     ],
     "filterType": "GMObject",
     "folderName": "meta",

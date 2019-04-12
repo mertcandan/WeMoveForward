@@ -267,6 +267,25 @@
             }
         },
         {
+            "Key": "0cd23497-28d2-4deb-b02e-2a2ecc2f9215",
+            "Value": {
+                "id": "d6b3d6cc-9159-4230-9bd3-267bee87fe89",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spriteTownGirl\/spriteTownGirl.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0f08616f-6e2e-4420-a869-8038db9e6607",
             "Value": {
                 "id": "31c79010-cd0f-468c-9467-fee3159acc34",
@@ -894,6 +913,25 @@
             }
         },
         {
+            "Key": "31e93929-5cbd-45c1-a489-d83c3f5011ec",
+            "Value": {
+                "id": "714a8b77-06e9-446b-8eeb-f6d6ff755843",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/objectTownHat\/objectTownHat.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3351213c-ed8e-44af-961d-890e449eaee8",
             "Value": {
                 "id": "779932dc-825f-4a32-8785-65e9be277af3",
@@ -1081,6 +1119,25 @@
                 ],
                 "resourcePath": "rooms\/rThreeNEW\/rThreeNEW.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "3d9d66a3-c50d-485b-8199-df6d3747c4b6",
+            "Value": {
+                "id": "c2bbef7a-718c-4561-98e6-993640bdf707",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/objectTownGirl\/objectTownGirl.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -3266,6 +3323,25 @@
                 ],
                 "resourcePath": "scripts\/cutscene_instance_create\/cutscene_instance_create.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "bee8f806-0e49-4b92-8493-6bc9580e352b",
+            "Value": {
+                "id": "e34e001b-2e5f-4ad6-870d-100f42d96620",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spriteTownHat\/spriteTownHat.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
