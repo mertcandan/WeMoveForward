@@ -552,6 +552,25 @@
             }
         },
         {
+            "Key": "219b8d3f-aaa4-4bd2-ad13-7d76ddbcaf44",
+            "Value": {
+                "id": "b9cd595d-2f79-408a-a68a-7808f02940bb",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/objectLeotard\/objectLeotard.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2218adeb-e66b-464b-a32e-635739aa333e",
             "Value": {
                 "id": "458bf7be-deb7-4fd0-a042-07e334d517c4",
@@ -2601,6 +2620,25 @@
                 ],
                 "resourcePath": "scripts\/create_textbox\/create_textbox.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "96a12bb7-7219-4756-9c51-25c2f4eb891d",
+            "Value": {
+                "id": "0a79d693-4442-490c-96e9-04c6fd1a5dfb",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spriteLeotard\/spriteLeotard.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
