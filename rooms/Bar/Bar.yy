@@ -540,7 +540,7 @@
             "__type": "GMRBackgroundLayer_Model:#YoYoStudio.MVCFormat",
             "name": "lights",
             "id": "46415a42-8807-41d5-949a-4b2aa435f4f7",
-            "animationFPS": 15,
+            "animationFPS": 1,
             "animationSpeedType": "0",
             "colour": { "Value": 4294967295 },
             "depth": 1200,
