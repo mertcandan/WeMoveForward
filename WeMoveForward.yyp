@@ -3839,6 +3839,25 @@
             }
         },
         {
+            "Key": "d82fc431-33ff-45dc-8caa-7c91239a21f8",
+            "Value": {
+                "id": "28cb0628-28c5-48d4-a511-75eb31d1fe15",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_inventory_frame\/spr_inventory_frame.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d94688e5-2038-451f-bd24-e8f14b9854fb",
             "Value": {
                 "id": "5448b687-003e-4e98-9eb5-53dfb7067814",
@@ -4120,6 +4139,25 @@
                     "default"
                 ],
                 "resourcePath": "sprites\/crystals\/crystals.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e87799a2-3edb-4fcc-9903-4b235b3ac351",
+            "Value": {
+                "id": "8c7869e1-eeea-409e-81fe-0f653e8730d6",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_inventory_box\/spr_inventory_box.yy",
                 "resourceType": "GMSprite"
             }
         },
