@@ -1,8 +1,8 @@
 {
-    "id": "f370d553-8115-449c-9c71-595ffb9c2a3a",
+    "id": "0f35bdc8-036b-4c38-9c31-b631a32e10c5",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "objectDancer",
+    "name": "objectMalachite",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "a5088f37-2193-434d-be86-37b34f6bfd3e",
+    "spriteId": "8983c6a9-dc0d-44ed-9b4b-d34f58877a8d",
     "visible": true
 }

@@ -1,8 +1,8 @@
 {
-    "id": "f370d553-8115-449c-9c71-595ffb9c2a3a",
+    "id": "fe6a91be-6ff0-4921-b8ea-bb2c4b46698a",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "objectDancer",
+    "name": "objectBartender",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "a5088f37-2193-434d-be86-37b34f6bfd3e",
+    "spriteId": "2f5a4b18-6eaa-4108-976d-a590d484f0e9",
     "visible": true
 }
