@@ -2148,6 +2148,25 @@
             }
         },
         {
+            "Key": "816c4deb-a27f-4461-8501-bb171a246c1e",
+            "Value": {
+                "id": "66f0f20c-fd68-4a79-ab8f-4e73037de38e",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spritePlayerWalk\/spritePlayerWalk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "82a1503a-3c93-46b9-a1f7-41328c036ac5",
             "Value": {
                 "id": "bbec6166-6384-4485-98a0-0ddc544641e3",
