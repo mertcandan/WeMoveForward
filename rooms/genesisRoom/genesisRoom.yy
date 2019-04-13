@@ -25,7 +25,8 @@
         "ea5abea6-3de4-4b7d-852d-c8e50e515439",
         "2b3052b2-fa90-405a-94ef-ee3e9491609e",
         "4bc796f8-1f88-4492-af27-5d34c0fe4b84",
-        "8e4b3405-e322-4ad2-908b-da4d3863fb9f"
+        "8e4b3405-e322-4ad2-908b-da4d3863fb9f",
+        "7f3399f2-f642-4940-a9bc-9c8b2e22603b"
     ],
     "IsDnD": true,
     "layers": [
@@ -98,7 +99,8 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_4072DA53","id": "3eba85e1-c73a-4665-b512-7583b034e585","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_4072DA53","objId": "197a78bd-3e78-40b6-beb9-bca7d6aa09eb","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 130,"y": 265}
+{"name": "inst_4072DA53","id": "3eba85e1-c73a-4665-b512-7583b034e585","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_4072DA53","objId": "197a78bd-3e78-40b6-beb9-bca7d6aa09eb","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 130,"y": 265},
+{"name": "inst_60858770","id": "7f3399f2-f642-4940-a9bc-9c8b2e22603b","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_60858770","objId": "b6b9f177-a2e2-4844-9155-d20f25ceb248","properties": null,"rotation": 0,"scaleX": -1.2375,"scaleY": 1.3875,"mvc": "1.1","x": 477,"y": 201}
             ],
             "layers": [
 
