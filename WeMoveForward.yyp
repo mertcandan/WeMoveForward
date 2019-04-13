@@ -533,6 +533,25 @@
             }
         },
         {
+            "Key": "1c14304a-604f-4020-ae18-50d843d4d028",
+            "Value": {
+                "id": "306bec03-654a-4179-8048-321ee59d1bf6",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spriteEnimeFace\/spriteEnimeFace.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1c75b44f-252b-4993-963d-ee27b9dd7812",
             "Value": {
                 "id": "2bf472c8-699c-47ec-90c2-c7fb2864ebd0",
