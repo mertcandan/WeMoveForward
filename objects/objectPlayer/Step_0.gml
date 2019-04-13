@@ -162,20 +162,6 @@ if(hsp != 0) image_xscale = sign(hsp); //horizontal scaling of sprite. if its 1 
 
 #endregion
 //Open doors
-#region
-
-if(keyboard_check(vk_enter)){
-	if(place_meeting(x,y,genesisRoomDoor)){    
-        slideTransition(TRANS_MODE.GOTO, genesisRoom);
-		hascontrol=true;
-    }
-	if(place_meeting(x,y,genesisInsideRoom)){    
-        slideTransition(TRANS_MODE.GOTO, rThreeNEW);
-		hascontrol = true;
-    }
-}
-
-#endregion
 
 if(input_interact){
 	
