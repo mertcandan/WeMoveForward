@@ -169,7 +169,7 @@ if(keyboard_check(vk_enter)){
         slideTransition(TRANS_MODE.GOTO, genesisRoom);
 		hascontrol=true;
     }
-	if(place_meeting(x,y,genesisInsideRoom)){    
+	if(place_meeting(x,y,genesisInteriorDoor)){    
         slideTransition(TRANS_MODE.GOTO, rThreeNEW);
 		hascontrol = true;
     }
