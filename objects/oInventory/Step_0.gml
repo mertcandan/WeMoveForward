@@ -44,49 +44,49 @@ selected_slot = min(global.inv_slots-1, m_slotx + (m_sloty * inv_slots_width));
 var inv_grid = global.ds_inventory;
 var ss_item = inv_grid[# 0, selected_slot];
 
-if(pickup_slot != -1){
+if(ss_item != item.none){
 	if(mouse_check_button_pressed(mb_left)){
-			if(ss_item == item.none){
-				inv_grid[# 0, selected_slot] = inv_grid[# 0 , pickup_slot];
-				inv_grid[# 1, selected_slot] = inv_grid[# 1 , pickup_slot];
-				
-				inv_grid[# 0, pickup_slot] = item.none;
-				inv_grid[# 1, pickup_slot] = 0;
-				
-				pickup_slot = -1;
-			}
-			else if(ss_item== inv_grid[# 0, pickup_slot]){
-				if(selected_slot!= pickup_slot){
-					
-					inv_grid[# 1, selected_slot] += inv_grid[# 1 , pickup_slot];
-					inv_grid[# 0, pickup_slot] = item.none;
-					inv_grid[# 1, pickup_slot] = 0;
-					
-				}
-				pickup_slot = -1;
-			}
-			else{
-				
-				var ss_item_num = inv_grid[# 1, selected_slot];
-				inv_grid[# 0, selected_slot] = inv_grid[# 0 , pickup_slot];
-				inv_grid[# 1, selected_slot] = inv_grid[# 1 , pickup_slot];
-				
-				inv_grid[# 0, pickup_slot] = ss_item;
-				inv_grid[# 1, pickup_slot] = ss_item_num;
+			//if(ss_item == item.none){
+			//	inv_grid[# 0, selected_slot] = inv_grid[# 0 , pickup_slot];
+			//	inv_grid[# 1, selected_slot] = inv_grid[# 1 , pickup_slot];
+			//	
+			//	inv_grid[# 0, pickup_slot] = item.none;
+			//	inv_grid[# 1, pickup_slot] = 0;
+			//	
+			//	pickup_slot = -1;
+			//}
+			//else if(ss_item== inv_grid[# 0, pickup_slot]){
+			//	if(selected_slot!= pickup_slot){
+			//		
+			//		inv_grid[# 1, selected_slot] += inv_grid[# 1 , pickup_slot];
+			//		inv_grid[# 0, pickup_slot] = item.none;
+			//		inv_grid[# 1, pickup_slot] = 0;
+			//		
+			//	}
+			//	pickup_slot = -1;
+			//}
+			//else{
+			//	
+			//	var ss_item_num = inv_grid[# 1, selected_slot];
+			//	inv_grid[# 0, selected_slot] = inv_grid[# 0 , pickup_slot];
+			//	inv_grid[# 1, selected_slot] = inv_grid[# 1 , pickup_slot];
+			//	
+			//	inv_grid[# 0, pickup_slot] = ss_item;
+			//	inv_grid[# 1, pickup_slot] = ss_item_num;
 				
 				//pickup_slot = -1;
-			}
+			//}
 	}
 	
 }
 
-else if(ss_item != item.none){
-	if(mouse_check_button_pressed(mb_right)){
-			pickup_slot = selected_slot;
-	}
+//else if(ss_item != item.none){
+	//if(mouse_check_button_pressed(mb_right)){
+	//		pickup_slot = selected_slot;
+	//}
 
 
-}
+//}
 
 
 
