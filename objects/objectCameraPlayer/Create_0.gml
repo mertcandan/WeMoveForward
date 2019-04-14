@@ -23,7 +23,7 @@ xTo = xstart; //what were moving towards at any point in time
 yTo = ystart;
 
 
-view_w_half = 250
-view_h_half = 200
+view_w_half = 300
+view_h_half = 240
 
 camera_set_view_size(cam, view_w_half*2, view_h_half*2)

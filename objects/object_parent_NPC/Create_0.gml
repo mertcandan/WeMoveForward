@@ -5,5 +5,5 @@ grv = 0.3; //gravity
 portrait_index = 0;
 voice = snd_voice1;
 name = "Woman";
-text = ["This person has nothing to say."];
-speakers = [id];
+text = [[["This person has nothing to say."]]];
+speakers = [[id]];
