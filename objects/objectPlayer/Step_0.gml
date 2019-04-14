@@ -5,7 +5,9 @@ if (key_pause) {
 }
 
 if (paused) {
-	//
+	key_left = 0;
+	key_right = 0;
+	key_jump = 0;
 } else if(!global.character_lock){ //this was modified in one of the previous commits
 	if (hascontrol) {
 		key_left = keyboard_check(vk_left);
@@ -18,6 +20,11 @@ if (paused) {
 			key_right = keyboard_check(ord("D"));
 			key_jump = keyboard_check(ord("W"));
 		}
+	}
+	else{
+		key_left = 0;
+		key_right = 0;
+		key_jump = 0;
 	}
 } 
 
@@ -162,20 +169,6 @@ if(hsp != 0) image_xscale = sign(hsp); //horizontal scaling of sprite. if its 1 
 
 #endregion
 //Open doors
-#region
-
-if(keyboard_check(vk_enter)){
-	if(place_meeting(x,y,genesisRoomDoor)){    
-        slideTransition(TRANS_MODE.GOTO, genesisRoom);
-		hascontrol=true;
-    }
-	if(place_meeting(x,y,genesisInsideRoom)){    
-        slideTransition(TRANS_MODE.GOTO, rThreeNEW);
-		hascontrol = true;
-    }
-}
-
-#endregion
 
 if(input_interact){
 	

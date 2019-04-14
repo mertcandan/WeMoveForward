@@ -7,7 +7,9 @@ walksp = 4; //walk speed
 hascontrol = true;
 touchingdoor = false;
 canjump = 0;
-
+key_left = 0;
+key_right = 0;
+key_jump = 0;
 portrait_index = 0;
 self_voice = voice1;
 name = "Lucinda";
