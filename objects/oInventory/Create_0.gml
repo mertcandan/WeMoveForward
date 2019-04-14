@@ -28,6 +28,8 @@ inv_UI_height = 192;
 
 spr_ivn_UI = spr_inventory_UI;
 spr_inv_items = spr_items;
+spr_item_box = spr_inventory_box;
+spr_item_frame = spr_inventory_frame
 
 spr_inv_items_collumn = sprite_get_width(spr_inv_items)/cell_size;
 spr_inv_items_rows = sprite_get_height(spr_inv_items)/cell_size;
@@ -83,6 +85,13 @@ enum item{
 	oldphoto = 20,
 	tinyjellyfish = 21
 }
+name = ["","","","Carrot","","","","","","","","","","","","","","Bubble Necklace","Enime's Sword","Wisteria's Teabag","Photo of a young girl","Tiny Jellyfish"];
+text = ["","","","Buns love this, how'd it get here?","","","","","","","","","","","","","",
+"It’s a tiny bubble on a chain. When you swim, the bubble covers your mouth and nose, letting you breathe longer than normally possible.",
+"Your sister’s sword. There’s dried blood on it, all of which you’re sure is Enime’s herself.",
+"An unused tea bag, made of high quality, soft silky fibers. The petals are half crushed, either from travel or just being abandoned here. It’s smell is strong, but not overwhelming. It brings a feeling of nostalgia for a memory you don’t have.",
+"A photo of a young and pretty girl. She wears common and practical clothes. Her necklace stands out, looking expensive and beautiful compared to her clothes.",
+"A bunch of tiny blue jellyfish cling and hover around your ankles and feet. They’ll help you jump!"];
 
 for (i=0; i<global.inv_slots; i++) {
 	global.ds_inventory[# 0, 0] = item.none;

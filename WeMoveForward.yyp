@@ -322,7 +322,7 @@
             "Key": "2847f5ae-790a-46b3-91f1-22d081ddc4f7",
             "Value": {
                 "id": "53090362-51a4-4668-976c-42cbe459da7d",
-                "resourcePath": "sprites\/enimesword\/enimesword.yy",
+                "resourcePath": "sprites\\enimesword\\enimesword.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1778,7 +1778,7 @@
             "Key": "e1178214-1850-44e0-b1b4-93066b058579",
             "Value": {
                 "id": "fe6bd518-97ed-422c-89ec-6c22fbfe8334",
-                "resourcePath": "sprites\/bubblenecklace\/bubblenecklace.yy",
+                "resourcePath": "sprites\\bubblenecklace\\bubblenecklace.yy",
                 "resourceType": "GMSprite"
             }
         },
