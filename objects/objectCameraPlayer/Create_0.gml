@@ -1,6 +1,17 @@
 ///@description set up camera 
 
+
+/*
+var active = camera_get_active();
+if active != view_camera[0]
+{
+	view_camera[0] = active;
+}
+*/
+
 cam = view_camera[0];
+
+//show_message(view_camera.length);
 
 follow = objectPlayer;
 

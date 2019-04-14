@@ -45,7 +45,8 @@ if(menu_control) {
 if(menu_x > gui_width+150) && (menu_committed != -1){
 	
 		switch(menu_committed){
-			
+			// temporary, change below
+			//case 2: slideTransition(TRANS_MODE.GOTO, Bar); break;
 			case 2: slideTransition(TRANS_MODE.NEXT); break;
 			case 1:{
 				
