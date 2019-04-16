@@ -2965,6 +2965,25 @@
             }
         },
         {
+            "Key": "a4319eba-c7d9-4c54-bbdb-77b7b2b092d7",
+            "Value": {
+                "id": "90decd78-f057-4233-a6b7-c0be42215ab4",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spriteItemSparkles\/spriteItemSparkles.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a479c1cb-4a27-441f-bc16-749c4ca67c61",
             "Value": {
                 "id": "823b4637-a31e-4eaa-917a-3c25afa67914",
