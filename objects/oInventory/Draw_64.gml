@@ -44,24 +44,24 @@ repeat(global.inv_slots){
 				draw_sprite_ext(spr_item_box, 0, inv_UI_x+5, inv_UI_y+inv_UI_height+32, 1.75, 1, 0, c_white, 1);
 				draw_sprite_ext(spr_item_frame, 0, inv_UI_x+10, inv_UI_y+inv_UI_height+37, 1, 1, 0, c_white, 1);
 				if (iitem == 17){
-					draw_sprite_ext(bubblenecklace, 0, inv_UI_x+10, inv_UI_y+inv_UI_height+37, .5, .5, 0, c_white, 1);
+					draw_sprite_ext(bubblenecklace, 0, inv_UI_x+6, inv_UI_y+inv_UI_height+33, .5, .5, 0, c_white, 1);
 				}
 				if (iitem == 18){
-					draw_sprite_ext(enimesword, 0, inv_UI_x+10, inv_UI_y+inv_UI_height+37, .5, .5, 0, c_white, 1);
+					draw_sprite_ext(enimesword, 0, inv_UI_x+6, inv_UI_y+inv_UI_height+33, .5, .5, 0, c_white, 1);
 				}
 				if (iitem == 19){
-					draw_sprite_ext(teabag, 0, inv_UI_x+10, inv_UI_y+inv_UI_height+37, .5, .5, 0, c_white, 1);
+					draw_sprite_ext(teabag, 0, inv_UI_x+6, inv_UI_y+inv_UI_height+33, .5, .5, 0, c_white, 1);
 				}
 				if (iitem == 20){
-					draw_sprite_ext(photo, 0, inv_UI_x+10, inv_UI_y+inv_UI_height+37, .5, .5, 0, c_white, 1);
+					draw_sprite_ext(photo, 0, inv_UI_x+6, inv_UI_y+inv_UI_height+33, .46, .48, 0, c_white, 1);
 				}
 				else{
-					draw_sprite_part_ext(spr_inv_items, 0, sx, sy, cell_size, cell_size, inv_UI_x+19, inv_UI_y+inv_UI_height+52, scale, scale, c_white, 1);
+					draw_sprite_part_ext(spr_inv_items, 0, sx, sy, cell_size, cell_size, inv_UI_x+25, inv_UI_y+inv_UI_height+58, scale, scale, c_white, 1);
 				}
 				draw_set_halign(fa_left);
 				draw_set_valign(fa_top);
 				draw_text(inv_UI_x+130, inv_UI_y+inv_UI_height+37, name[iitem]);
-				draw_text_ext(inv_UI_x+130, inv_UI_y+inv_UI_height+57, text[iitem], -1, 380);
+				draw_text_ext(inv_UI_x+130, inv_UI_y+inv_UI_height+57, text[iitem], 18, 430);
 			}
 			gpu_set_blendmode(bm_add);
 			draw_sprite_part_ext(spr_ivn_UI, 0, 0, 0, cell_size, cell_size, xx, yy, scale, scale, c_white, .3);
