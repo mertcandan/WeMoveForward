@@ -14,9 +14,9 @@ if(instance_exists(follow)){
 
 //update object position
 
-x+= (xTo - x) / 25; //difference between where we want to be (xTo) and where we currently are (x)
+x+= (xTo - x) / 40; //difference between where we want to be (xTo) and where we currently are (x)
 					//moves us 1/25th  of the distacne bewteen the current position between x and xTo
-y+= (yTo - y) / 25;
+y+= (yTo - y) / 40;
 
 
 x = clamp(x, view_w_half, room_width - view_w_half);
