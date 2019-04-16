@@ -56,7 +56,7 @@ repeat(global.inv_slots){
 					draw_sprite_ext(photo, 0, inv_UI_x+6, inv_UI_y+inv_UI_height+33, .46, .48, 0, c_white, 1);
 				}
 				else{
-					draw_sprite_part_ext(spr_inv_items, 0, sx, sy, cell_size, cell_size, inv_UI_x+25, inv_UI_y+inv_UI_height+58, scale, scale, c_white, 1);
+					draw_sprite_part_ext(spr_inv_items, 0, sx, sy, cell_size, cell_size, inv_UI_x+26, inv_UI_y+inv_UI_height+58, scale, scale, c_white, 1);
 				}
 				draw_set_halign(fa_left);
 				draw_set_valign(fa_top);
