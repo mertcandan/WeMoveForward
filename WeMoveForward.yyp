@@ -1730,6 +1730,25 @@
             }
         },
         {
+            "Key": "657bed45-feae-4955-b45b-279df7f6dc24",
+            "Value": {
+                "id": "e04aaf90-bbe3-4a88-a8b0-a1772f582734",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spriteDidoFace\/spriteDidoFace.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "66aed43e-7d77-47df-aa5e-7928901a2edc",
             "Value": {
                 "id": "0a5e70f2-2407-4e87-ad42-69bbc34ce8e8",
@@ -1878,6 +1897,25 @@
                     "default"
                 ],
                 "resourcePath": "sprites\/sprite261\/sprite261.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6c240464-2498-4e53-9f14-61acfe3e9332",
+            "Value": {
+                "id": "c034118a-8e69-4cbf-9e54-b53e9d050d1b",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spriteDido\/spriteDido.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -4577,6 +4615,25 @@
                 ],
                 "resourcePath": "sprites\/photo\/photo.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f052807f-aed3-41af-95ee-7e8083ce9e13",
+            "Value": {
+                "id": "d44a7bbc-3b0c-456f-8176-c3e38e20f44b",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/objectDido\/objectDido.yy",
+                "resourceType": "GMObject"
             }
         },
         {
