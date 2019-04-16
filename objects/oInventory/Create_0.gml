@@ -83,15 +83,20 @@ enum item{
 	enimesword = 18,
 	teabag = 19,
 	oldphoto = 20,
-	tinyjellyfish = 21
+	tinyjellyfish = 21,
+	heartshapedglasses = 22,
+	dirtyribbon = 23,
+	coinonastring = 24,
+	brokenbonecomb = 25
 }
-name = ["","","","Carrot","","","","","","","","","","","","","","Bubble Necklace","Enime's Sword","Wisteria's Teabag","Photo of a young girl","Tiny Jellyfish"];
+name = ["","","","Carrot","","","","","","","","","","","","","","Bubble Necklace","Enime's Sword","Wisteria's Teabag","Photo of a Young Girl","Tiny Jellyfish", "Heart-Shaped Glasses", "Dirty Ribbon","Coin on a String","Broken Bone Comb"];
 text = ["","","","Buns love this, how'd it get here?","","","","","","","","","","","","","",
 "It’s a tiny bubble on a chain. When you swim, the bubble covers your mouth and nose, letting you breathe longer than normally possible.",
 "Your sister’s sword. There’s dried blood on it, all of which you’re sure is Enime’s herself.",
 "An unused tea bag, made of high quality, soft silky fibers. The petals are half crushed, either from travel or just being abandoned here. It’s smell is strong, but not overwhelming. It brings a feeling of nostalgia for a memory you don’t have.",
 "A photo of a young and pretty girl. She wears common and practical clothes. Her necklace stands out, looking expensive and beautiful compared to her clothes.",
-"A bunch of tiny blue jellyfish cling and hover around your ankles and feet. They’ll help you jump!"];
+"A bunch of tiny blue jellyfish cling and hover around your ankles and feet. They’ll help you jump!",
+"","","",""];
 
 for (i=0; i<global.inv_slots; i++) {
 	global.ds_inventory[# 0, 0] = item.none;
