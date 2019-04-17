@@ -9,8 +9,9 @@ with(tbox){
 	d_index = argument[3];
 	text = argument[0];
 	text = text[global.metadialoguestep]
-	if (array_length_1d(argument[1])!=0){
-		argument[1].max_dialogue_index = array_length_1d(text)-1
+	speakers = argument[1];
+	if (array_length_1d(speakers)!=0){
+		speakers[0].max_dialogue_index = array_length_1d(text)-1
 	}
 	text = text[d_index];
 	speakers = argument[1];
