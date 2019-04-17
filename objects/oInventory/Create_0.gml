@@ -96,7 +96,9 @@ text = ["","","","Buns love this, how'd it get here?","","","","","","","","",""
 "An unused tea bag, made of high quality, soft silky fibers. The petals are half crushed, either from travel or just being abandoned here. It’s smell is strong, but not overwhelming. It brings a feeling of nostalgia for a memory you don’t have.",
 "A photo of a young and pretty girl. She wears common and practical clothes. Her necklace stands out, looking expensive and beautiful compared to her clothes.",
 "A bunch of tiny blue jellyfish cling and hover around your ankles and feet. They’ll help you jump!",
-"","","",""];
+"A pair of kids glasses. Maybe a passenger on a cruise dropped them overboard. You refuse to admit how you’re salty that they’re too tight. Beauty is pain?","A dirty, old ribbon. At one point it must have belonged to someone expensive; it’s quality stuff. If you look closer, certain parts seem scorched.",
+"An antique coin. Someone wanted to carry it around so bad they punched a hole in the top. You really like the woman on the coin, for no reason at all. It feels really important. You feel a twinge in your heart for whoever lost it.",
+"The tiny ribcage is broken on one side. Even though it’s bone, it’s incredibly strong. You wonder in awe how something, or someone, managed to break it."];
 
 for (i=0; i<global.inv_slots; i++) {
 	global.ds_inventory[# 0, 0] = item.none;
