@@ -3,7 +3,7 @@ vsp = 0; //vertical speed
 grv = 0.3; //gravity
 
 
-portrait_index = 20; // the sprite offset of this character's face
+portrait_index = 33; // the sprite offset of this character's face
 voice = voice2;
 name = "Nix";
 text = [[[
