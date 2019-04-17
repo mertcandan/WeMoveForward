@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "objectWaitress",
     "eventList": [
-        
+        {
+            "id": "575f7d58-7020-4b8e-855d-fd787dcd007c",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "1c75b44f-252b-4993-963d-ee27b9dd7812"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
