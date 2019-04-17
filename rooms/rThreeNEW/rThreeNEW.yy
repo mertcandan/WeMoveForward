@@ -137,7 +137,8 @@
         "a15cae53-96f3-4265-a9be-8c1ccc7217e6",
         "e7aa4702-997a-4d7b-b04d-63fb24b3aad3",
         "431bc039-c543-49a8-80d2-409dea71d970",
-        "aeda8be0-e37a-4e42-aaed-e96cd1363ce9"
+        "aeda8be0-e37a-4e42-aaed-e96cd1363ce9",
+        "e31c7cc3-aeeb-491d-bd6d-061f1211dccb"
     ],
     "IsDnD": true,
     "layers": [
@@ -187,7 +188,7 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-
+{"name": "inst_3AA635C9","id": "e31c7cc3-aeeb-491d-bd6d-061f1211dccb","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_3AA635C9","objId": "bc6c5478-aef2-401f-b713-cb77bfcc28ba","properties": [{"id": "5b585342-263a-4671-92ee-7f2e2b0d3510","modelName": "GMOverriddenProperty","objectId": "bc6c5478-aef2-401f-b713-cb77bfcc28ba","propertyId": "9050ac1b-93df-4503-9c74-a693bcb411c6","mvc": "1.0","value": "item.heartshapedglasses"}],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 896,"y": 608}
             ],
             "layers": [
 

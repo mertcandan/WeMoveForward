@@ -74,7 +74,8 @@
         "322f5b16-6ba8-4bbc-8734-59b466ceaf21",
         "f04cec2e-9860-4433-a0e1-37e9fd238cc1",
         "fb0000dc-7f91-4633-b039-118c951e353f",
-        "31f18c1d-942b-4179-bf45-a1bcc882f7a2"
+        "31f18c1d-942b-4179-bf45-a1bcc882f7a2",
+        "25eb2ce1-9d4e-4d15-bd94-c511f4b47040"
     ],
     "IsDnD": true,
     "layers": [
@@ -92,7 +93,7 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-
+{"name": "inst_2F50108C","id": "25eb2ce1-9d4e-4d15-bd94-c511f4b47040","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_2F50108C","objId": "bc6c5478-aef2-401f-b713-cb77bfcc28ba","properties": [{"id": "4619ad59-b512-47f8-8ce8-7affa0d1340d","modelName": "GMOverriddenProperty","objectId": "bc6c5478-aef2-401f-b713-cb77bfcc28ba","propertyId": "9050ac1b-93df-4503-9c74-a693bcb411c6","mvc": "1.0","value": "item.oldphoto"}],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 1248,"y": 512}
             ],
             "layers": [
 
