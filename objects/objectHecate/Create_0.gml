@@ -60,8 +60,13 @@ text = [[[
     "Fine. I’m not going to act like your puppet for much longer, though.", //0
     "You wouldn’t be the only puppet here.", //1
     "You’re not special.", //0
-	]
-	]];
+	]],[[
+	"You found my necklace!!", //1
+    "Why didn’t you say you lost a necklace? It’s not a big deal.", //0
+    "Well, since you helped me out, I’ll share a little info with you! This necklace helps creatures that can’t breathe underwater. It creates a little air bubble so you don’t drown horribly, haha!", //1
+    "Wow, that’s actually really cool.", //0
+    "Hah…. Yeah. It was given to me by someone special. Made me into someone special too.", //1
+	]]];
 // 0 - Player
 // 1 - NPC
 // Need to specify which character will talk at each turn
@@ -76,5 +81,7 @@ character_turns=[[
 	[1,0,1],
 	[1,0,1,1],
 	[1,0,1,0]
+	],[
+	[1,0,1,0,1]
 	]];
 speakers = [id];

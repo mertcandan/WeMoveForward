@@ -44,6 +44,11 @@ text = [[[
 	],[
     "You’ve done enough damage. Please go." //1
     "Maybe I was too harsh on her…" //0
+	]],[[
+	"You’re really something. The more you rock this boat, the more Sloan will be less inclined to play with you.", //1
+    "Who-?", //0
+    "She sees you as a toy and nothing more. She has no morals and no fear of death.", //1
+    "It really is a shame that Enime got caught up in all this.", //1
 	]]];
 // 0 - Player
 // 1 - NPC
@@ -56,5 +61,7 @@ character_turns=[[
 	[0,1,1,0,1,0,1],
 	[0,0,1,1,0,1],
 	[1,0]
+	],[
+	[1,0,1,1]
 	]];
 speakers = [id];

@@ -51,8 +51,16 @@ text = [[[
 	],[
     "I’ve survived through this life with hard work, perseverance, and impossible stubbornness.",
     "I’m going to find Enime on my own, without your help or your contracts."
-	]
-]];
+	]],[[
+	"I’ll be kind and give you a little information. Just to flex a little bit, heh.", //1
+    "Alcohol isn’t super common in the towns area here. However, everyone can still get their fix somehow.", //1
+    "Do you not think it’s weird that there’s a constant stream of alcohol from there? So much so that there’s no way we could be self sustainable?", //1
+    ".... So what you’re saying is-!", //0
+    "I’m not saying anything. I’m simply implying a lot.", //1
+    "Go all the way down the street and ignore the wall. You’ll find something cool. A man named Malachite will be working and he might be willing to help.", //1
+	"He can be finicky though so don’t get your hopes up.", //1
+	]]
+	];
 // 0 - Player
 // 1 - NPC
 // Need to specify which character will talk at each turn
@@ -60,9 +68,12 @@ character_turns=[[
 	[1,0,1,1,0],
 	[0,1,1,0,1,1,1,0,1],
 	[1, 1, 1, 1, 0, 1, 1],
-	[1]],[
+	[1]
+	],[
 	[1,1,1],
 	[1,1,0,1],
-	[0,0]]
-	];
+	[0,0]
+	],[
+	[1,1,1,0,1,1,1]
+	]];
 speakers = [id];

@@ -25,8 +25,15 @@ text = [[[
     "She’s no longer here.",
     "I am sorry. I cannot say more.",
 	"If you wish to hear more, come to me later. It is no longer safe."
-
-]]];
+	]],[[
+	"Ah….. So you know?", //1
+    "Me and Sloan - the secret queen of this town - were…. Incredibly close. She was truly wonderful.", //1
+    "It’s truly sad what had to happen. I don’t entirely blame her but…. There had to be a different way.", //1
+    "She killed me out of love. But I was the only person she ever loved. She may have treated me well, but she’s not a good person. She’s cruel and vengeful.", //1
+    "What I’m saying is that if she killed the person she loved most in the world, why would she hesitate to kill a stranger? The stranger being you…. Or your sister….", //1
+    "There’s a lot more here but… I think you should first go to where you first fell. There’s something hidden in the wall.", //1
+    "I’m sorry I couldn’t do more.", //1
+	]]];
 // 0 - Player
 // 1 - NPC
 // Need to specify which character will talk at each turn
@@ -34,5 +41,7 @@ character_turns=[[
 	[1,1,1,1,1]
 	],[
 	[1,0,1,0,1,1,1,0,1,0,1,1,1]
+	],[
+	[1,1,1,1,1,1,1]
 	]];
 speakers = [id];
