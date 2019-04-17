@@ -39,7 +39,20 @@ text = [[[
 
     ],[
     "Huh? You haven't left yet?",//1
-]]];
+]],[[
+	"You know. I could easily tell you everything about this town in an instant.",
+    "I could tell you the exact location of your sister.",
+    "I could tell you who the person she was looking for is.",
+	],[
+    "I could tell you how to kill god.",
+    "It’s really all about if you want to owe me.",
+    "I’m not going to sell my soul to you.", //0
+    "I’m not asking for your soul, per se.",
+	],[
+    "I’ve survived through this life with hard work, perseverance, and impossible stubbornness.",
+    "I’m going to find Enime on my own, without your help or your contracts."
+	]
+]];
 // 0 - Player
 // 1 - NPC
 // Need to specify which character will talk at each turn
@@ -47,5 +60,9 @@ character_turns=[[
 	[1,0,1,1,0],
 	[0,1,1,0,1,1,1,0,1],
 	[1, 1, 1, 1, 0, 1, 1],
-	[1]]];
+	[1]],[
+	[1,1,1],
+	[1,1,0,1],
+	[0,0]]
+	];
 speakers = [id];

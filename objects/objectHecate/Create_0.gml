@@ -40,7 +40,28 @@ text = [[[
     ],[
 
     "GO. AWAY.",//1
-	]]];
+	]],[[
+	"How’d it go? Not too good I presume?", //1
+    "Actually, it was fine! She gave me something that helps me jump. Maybe this way I can find your thing.", //0
+    "Hm. Wow, that’s great.", //1
+    "You know a little gratitude would be cool.", //0
+    "HA. What would I be thankful for? All you've done is gotten a present and befriended someone I hate.", //1
+	],[
+    "You’re not exactly on my good side right now, girl.", //1
+    "Don’t try to intimidate me. I don’t scare easy.", //0
+    "Yeah, well, we’ll see about that, huh?", //1
+	],[
+    "You really have NO. IDEA. What’s going on down here. Not even a clue!", //1
+    "Are you going to enlighten me?", //0
+    "Now why would I do that and ruin all the fun?", //1
+    "Besides, it’s hysterical watching you run back and forth!!", //1
+	],[
+    "Let me know when you have my lost item and I’ll let you in on something you might like to know.", //1
+    "Fine. I’m not going to act like your puppet for much longer, though.", //0
+    "You wouldn’t be the only puppet here.", //1
+    "You’re not special.", //0
+	]
+	]];
 // 0 - Player
 // 1 - NPC
 // Need to specify which character will talk at each turn
@@ -50,5 +71,10 @@ character_turns=[[
 	[1,0,0,1,1,0,1,0],
 	[1,0,1,0,1],
 	[1]
+	],[
+	[1,0,1,0,1],
+	[1,0,1],
+	[1,0,1,1],
+	[1,0,1,0]
 	]];
 speakers = [id];
