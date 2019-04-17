@@ -27,7 +27,12 @@ with(tbox){
 		}
 		else {
 		    // other character's turn
-			names[i] = speakers[0].name;
+			if (speakers[0] == -1){
+				names[i] = "Woman";
+			}
+			else{
+				names[i] = speakers[0].name;
+			}
 			portraits[i] = speakers[0].portrait_index;
 			voices[i] = speakers[0].voice;
 		}

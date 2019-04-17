@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "objectLeotard",
     "eventList": [
-        
+        {
+            "id": "92c2be16-bf79-4d7a-a2f4-a9fd50042bce",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "219b8d3f-aaa4-4bd2-ad13-7d76ddbcaf44"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

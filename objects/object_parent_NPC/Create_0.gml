@@ -6,4 +6,5 @@ portrait_index = 0;
 voice = voice1;
 name = "Woman";
 text = [[["This person has nothing to say."]]];
-speakers = [[id]];
+speakers = [[-1]];
+character_turns=[[[1]]]
