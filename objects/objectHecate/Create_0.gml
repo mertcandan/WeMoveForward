@@ -2,7 +2,7 @@ hsp = 0; //horizontal speed. zero bc u dont want to be moving at the start of ga
 vsp = 0; //vertical speed
 grv = 0.3; //gravity
 
-portrait_index = 20; // the sprite offset of this character's face
+portrait_index = 25; // the sprite offset of this character's face
 voice = voice1;
 name = "Hecate";
 // Below arrays now have an additional layer to allow for items to change the tree, check global.metadialoguestep

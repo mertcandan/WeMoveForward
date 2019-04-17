@@ -4,7 +4,7 @@ grv = 0.3; //gravity
 
 
 
-portrait_index = 7; // the sprite offset of this character's face
+portrait_index = 10; // the sprite offset of this character's face
 voice = voice1;
 name = "Dido";
 text = [[["Ah!! Oh gosh, you startled me!","... Who are you?","I’m sorry! My name is Lucinda. I kind of found this place by accident, so I’m quite startled myself….. Where even am I?",

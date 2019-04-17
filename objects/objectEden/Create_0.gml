@@ -4,7 +4,7 @@ grv = 0.3; //gravity
 
 
 
-portrait_index = 20; // the sprite offset of this character's face
+portrait_index = 0; // the sprite offset of this character's face
 voice = voice2;
 name = "Eden";
 text = [[[
