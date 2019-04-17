@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "objectDido",
     "eventList": [
-        
+        {
+            "id": "5057f65c-9249-4a5d-9841-565c6933de3e",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "f052807f-aed3-41af-95ee-7e8083ce9e13"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

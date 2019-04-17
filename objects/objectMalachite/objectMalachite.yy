@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "objectMalachite",
     "eventList": [
-        
+        {
+            "id": "a0b1b7ea-7183-4142-a63b-aa2e4b8d3745",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "0f35bdc8-036b-4c38-9c31-b631a32e10c5"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
