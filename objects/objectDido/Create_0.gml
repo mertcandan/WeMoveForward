@@ -7,7 +7,9 @@ grv = 0.3; //gravity
 portrait_index = 7; // the sprite offset of this character's face
 voice = voice1;
 name = "Dido";
-text = [[["Ah!! Oh gosh, you startled me!","... Who are you?","I’m sorry! My name is Lucinda. I kind of found this place by accident, so I’m quite startled myself….. Where even am I?",
+text = [[["Ah!! Oh gosh, you startled me!",
+	"... Who are you?",
+	"I’m sorry! My name is Lucinda. I kind of found this place by accident, so I’m quite startled myself….. Where even am I?",
 	"My name is Dido! And you’ve managed to fall into our little town of Thala!",
 	"It really is quite extraordinary!! We never have visitors! And when I say never, I’m not being dramatic, hehe!",
 	"Thala……","You’re lucky that I’m the one you bumped into! There’s some rather unsavory folks who wander the edges of the bubble!",
@@ -25,7 +27,7 @@ text = [[["Ah!! Oh gosh, you startled me!","... Who are you?","I’m sorry! My n
 	"Ah……"
 	]],[[
 	"Ah…. Hello, Lucinda.", //1
-    "Hello, Dido! How are you?" //0
+    "Hello, Dido! How are you?", //0
     "I’m um. I’m fine. I’m actually quite busy right now.", //1
     "Oh, did you have time to see if Hecate went anywh-!", //0
     "I HAVE TO GO NOW.", //1

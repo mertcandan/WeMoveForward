@@ -36,13 +36,13 @@ text = [[[
     "I assist you and you ridicule everything I live for?" //1
 	],[
     "....... I just don’t know how to read you. You’re kind of giving me mixed signals.", //0
-    "Dido seems to have a high opinion of you but she’s about it. More people have told me bad things about you than anything else." //0
-    "........" //1
-    "Dido is a sweet girl. She always sees the positive in things. Or at least she tries to. It’s really a wonder after what she’s been through." //1
-    "Huh?" //0
+    "Dido seems to have a high opinion of you but she’s about it. More people have told me bad things about you than anything else.", //0
+    "........", //1
+    "Dido is a sweet girl. She always sees the positive in things. Or at least she tries to. It’s really a wonder after what she’s been through.", //1
+    "Huh?", //0
     "Forget I said that, please." //1
 	],[
-    "You’ve done enough damage. Please go." //1
+    "You’ve done enough damage. Please go.", //1
     "Maybe I was too harsh on her…" //0
 	]],[[
 	"You’re really something. The more you rock this boat, the more Sloan will be less inclined to play with you.", //1

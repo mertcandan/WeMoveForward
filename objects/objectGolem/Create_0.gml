@@ -16,7 +16,7 @@ text = [[[
     "You know about her?! Tell me!", //0
     "She was kind.. Somewhat unlike you. Came down here looking for someone.", //1
     "Who?", //0
-    "That is something I cannot tell you. I can tell you she found them. And paid dearly for it."
+    "That is something I cannot tell you. I can tell you she found them. And paid dearly for it.",
     "I only tell you this because I feel partly responsible.",
     "Enime was a lovely woman when she interacted with me. She treated me like a full human, rather than a cheap imitation of one.",
     "........", //0
