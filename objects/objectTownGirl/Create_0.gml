@@ -2,7 +2,7 @@ hsp = 0; //horizontal speed. zero bc u dont want to be moving at the start of ga
 vsp = 0; //vertical speed
 grv = 0.3; //gravity
 
-portrait_index = 0;
+portrait_index = 51;
 voice = voice1;
 name = "Women Talking";
 text = [[["She really is the worst!! Like she tried to tell me that all my stuff is sooooo kitsch but she only does pop art soooooo….",
