@@ -10,5 +10,5 @@ text = [[["I’ve always wanted to get into this building but I have no clue whe
 [["I’ve always wanted to get into this building but I have no clue where the door is!", "I’ve been waiting out here for the past few hours to see if someone leaves. Then I’ll know for sure where it is!!"]], 
 [["I’ve always wanted to get into this building but I have no clue where the door is!", "I’ve been waiting out here for the past few hours to see if someone leaves. Then I’ll know for sure where it is!!"]], 
 [["I’ve always wanted to get into this building but I have no clue where the door is!", "I’ve been waiting out here for the past few hours to see if someone leaves. Then I’ll know for sure where it is!!"]]];
-speakers = [[id]];
+speakers = [id];
 character_turns=[[[1,1]],[[1,1]],[[1,1]],[[1,1]],[[1,1]]]

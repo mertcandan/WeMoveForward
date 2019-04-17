@@ -4,11 +4,20 @@
     "mvc": "1.0",
     "name": "objectTownGirl",
     "eventList": [
-        
+        {
+            "id": "85cb059c-8184-4dd1-91cc-65c8e43977f9",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "3d9d66a3-c50d-485b-8199-df6d3747c4b6"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "parentObjectId": "f41a8bb5-30b8-4260-83d0-4ce484a3c5ce",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,

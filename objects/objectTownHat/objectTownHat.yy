@@ -4,11 +4,20 @@
     "mvc": "1.0",
     "name": "objectTownHat",
     "eventList": [
-        
+        {
+            "id": "417d9e0d-d6a9-4d86-8fbd-5908f8d318b3",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "31e93929-5cbd-45c1-a489-d83c3f5011ec"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "parentObjectId": "f41a8bb5-30b8-4260-83d0-4ce484a3c5ce",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
