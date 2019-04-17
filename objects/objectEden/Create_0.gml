@@ -65,7 +65,7 @@ text = [[[
 // 1 - NPC
 // Need to specify which character will talk at each turn
 character_turns=[[
-	[1,0,1,1,0],
+	[1,1,0,1,1,0],
 	[0,1,1,0,1,1,1,0,1],
 	[1, 1, 1, 1, 0, 1, 1],
 	[1]
