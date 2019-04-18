@@ -93,7 +93,7 @@ name = ["","","","Carrot","","","","","","","","","","","","","","Bubble Necklac
 text = ["","","","Buns love this, how'd it get here?","","","","","","","","","","","","","",
 "It’s a tiny bubble on a chain. When you swim, the bubble covers your mouth and nose, letting you breathe longer than normally possible.",
 "Your sister’s sword. There’s dried blood on it, all of which you’re sure is Enime’s herself.",
-"An unused tea bag, made of high quality, soft silky fibers. The petals are half crushed, either from travel or just being abandoned here. It’s smell is strong, but not overwhelming. It brings a feeling of nostalgia for a memory you don’t have.",
+"An unused tea bag, made of high quality, soft silky fibers. The petals are half crushed, either from travel or just being abandoned here. It brings a feeling of nostalgia for a memory you don’t have.",
 "A photo of a young and pretty girl. She wears common and practical clothes. Her necklace stands out, looking expensive and beautiful compared to her clothes.",
 "A bunch of tiny blue jellyfish cling and hover around your ankles and feet. They’ll help you jump!",
 "A pair of kids glasses. Maybe a passenger on a cruise dropped them overboard. You refuse to admit how you’re salty that they’re too tight. Beauty is pain?","A dirty, old ribbon. At one point it must have belonged to someone expensive; it’s quality stuff. If you look closer, certain parts seem scorched.",
