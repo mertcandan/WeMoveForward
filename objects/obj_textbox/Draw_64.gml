@@ -1,4 +1,3 @@
-box_x
 //draw box
 draw_sprite(box, 0, box_x, box_y);
 
