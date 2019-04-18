@@ -28,7 +28,10 @@ text = [[["Wait how did you find me?"]],
 [["Hi."]],
 [["Hi."]]];
 speakers = [id];
-character_turns=[[[1]],[[1
+character_turns=[[[
+	1
+	]],[[
+	1
 	]],[[
 	[1,0,1,0,1],
 	[1,0,1],
