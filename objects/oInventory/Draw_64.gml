@@ -46,13 +46,13 @@ repeat(global.inv_slots){
 				if (iitem == 17){
 					draw_sprite_ext(bubblenecklace, 0, inv_UI_x+6, inv_UI_y+inv_UI_height+33, .5, .5, 0, c_white, 1);
 				}
-				if (iitem == 18){
+				else if (iitem == 18){
 					draw_sprite_ext(enimesword, 0, inv_UI_x+6, inv_UI_y+inv_UI_height+33, .5, .5, 0, c_white, 1);
 				}
-				if (iitem == 19){
+				else if (iitem == 19){
 					draw_sprite_ext(teabag, 0, inv_UI_x+6, inv_UI_y+inv_UI_height+33, .5, .5, 0, c_white, 1);
 				}
-				if (iitem == 20){
+				else if (iitem == 20){
 					draw_sprite_ext(photo, 0, inv_UI_x+6, inv_UI_y+inv_UI_height+33, .46, .48, 0, c_white, 1);
 				}
 				else{

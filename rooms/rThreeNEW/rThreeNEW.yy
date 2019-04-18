@@ -2,7 +2,7 @@
 {
     "name": "rThreeNEW",
     "id": "3d0c7eaf-9a73-4118-b0dd-9a6f8cb87964",
-    "creationCodeFile": "",
+    "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,
