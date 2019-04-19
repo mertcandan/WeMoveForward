@@ -34,3 +34,18 @@ character_turns=[[
 	[1,1,1,1,1]
 	]];
 speakers = [id];
+
+portrait_turns=[[[
+	33, 34, 33, 35, 34
+	]],[[
+	"When you feel eyes on you, you should listen to that feeling.",
+    "Move, get out. It’s not somewhere you want to be.",
+    "I do my best to avoid trouble and stay away from possible traps that would entangle me in a whole mess of a situation.",
+    "You seem to have that tangle as a noose around your neck."
+	]],[[
+	"I really don’t mean to sound morbid. It just kind of comes naturally to the way I speak.", //1
+    "I just wanted to warn you that you’re in the eye of the storm right now. Things will get pretty nasty if you start looking behind the curtain.", //1
+    "I’m sure you’ve guessed by now that a lot of what’s going on here is all an act of pure ignorance.", //1
+    "Most people here don’t see what I can see.", //1
+    "Though, thanks to you, now Dido can see what I have seen.", //1
+	]]];

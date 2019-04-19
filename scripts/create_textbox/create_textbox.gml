@@ -6,6 +6,8 @@
 var tbox = instance_create_layer(0, 0, "text", obj_textbox);
 
 with(tbox){
+	
+	
 	d_index = argument[3];
 	text = argument[0];
 	text = text[global.metadialoguestep]
@@ -19,6 +21,11 @@ with(tbox){
 	character_turns = character_turns[global.metadialoguestep]
 	character_turns = character_turns[d_index];
 	
+	
+	portrait_turns = argument[4];
+	portrait_turns = portrait_turns[global.metadialoguestep]
+	portrait_turns = portrait_turns[d_index];
+	
 	var len = array_length_1d(text);
 	var i = 0; 
 	
@@ -26,7 +33,8 @@ with(tbox){
 		if (character_turns[i] == 0) {
 		    // Player's turn
 			names[i] = objectPlayer.name;
-			portraits[i] = 39;
+			//portraits[i] = 42;
+			portraits[i] = portrait_turns[i];
 			voices[i] = voice1;
 		}
 		else {
@@ -37,7 +45,8 @@ with(tbox){
 			else{
 				names[i] = speakers[0].name;
 			}
-			portraits[i] = speakers[0].portrait_index;
+			//portraits[i] = speakers[0].portrait_index;
+			portraits[i] = portrait_turns[i];
 			voices[i] = speakers[0].voice;
 		}
 		i++;
